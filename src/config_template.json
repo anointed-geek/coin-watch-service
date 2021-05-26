@@ -1,0 +1,13 @@
+{
+  "application": {
+    "apiKey": "{your_coinmarketcap_api_key_here}",
+    "fetchEnabled": true,
+    "pollingInterval": 10000
+  },
+  "rules": {
+    "tradingVolume": {
+      "high": 0.6,
+      "medium": 0.3
+    }
+  }
+}
